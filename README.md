@@ -65,6 +65,7 @@ Collection of awesome talos resource from the community
 - [Hcloud Kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud
 - [Kangal-Patch](https://github.com/uozalp/kangal-patch) Automates rolling upgrades of Talos Linux nodes in Kubernetes clusters, handling draining, updates, and reboots safely.
 - [Kubernetes as a Service](https://github.com/kubebn/talos-proxmox-kaas) Example Terraform deployment on Proxmox
+- [omni-kubeconfig](https://github.com/Jubblin/omni-kubeconfig) Standalone tool to extract kubeconfig files from either a standalone or cloud based Sidero Omni instance.
 - [proxmox-talos-opentofu](https://github.com/max-pfeiffer/proxmox-talos-opentofu) A turnkey Kubernetes cluster built with Talos Linux running on a Proxmox VE hypervisor. Cilium CNI. Provisioning with OpenTofu.
 - [terraform proxmox cluster](https://github.com/roeldev/iac-talos-cluster) Deploy a Talos OS-based cluster in Proxmox using Terraform, with Cilium and ArgoCD
 - [terraform vsphere cluster](https://github.com/ilpozzd/terraform-talos-vsphere-cluster) Deploy a Kubernetes cluster based on Talos OS in vSphere
